@@ -1,5 +1,5 @@
 # Codewars-training-C
-
+## Fundamentals
 <details>
 <summary><h3>Clock.c [8 kyu]: <a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a">Beginner Series #2 Clock</a></h3></summary>
 <br>
