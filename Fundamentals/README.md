@@ -11,3 +11,18 @@ s = 1<br>
 <br>
 result = 61000</p>
 </details>
+
+<details>
+<summary><h3>Needle.c [8 kyu]: <a href="https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/c">A Needle in the Haystack</a></h3></summary>
+<br>
+<p style="margin-left: 20px;"> Can you find the needle in the haystack<br>
+
+Write a function findNeedle() that takes an array full of junk but containing one "needle"<br>
+
+After your function finds the needle it should return a message (as a string) that says:<br>
+
+"found the needle at position " plus the index it found the needle, so:<br>
+</p>
+<h4>Example(Input --> Output)</h4>
+<p>["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "found the needle at position 5"</p>
+</details>
