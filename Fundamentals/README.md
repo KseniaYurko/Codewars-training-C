@@ -7,7 +7,7 @@ Your task is to write a function which returns the time since midnight in millis
 
 **Example:**
 
-```ruby
+```c
    h = 0
    m = 1
    s = 1
@@ -26,7 +26,7 @@ After your function finds the needle it should return a message (as a string) th
 
 **Example(Input --> Output)**
 
-```ruby
+```c
    ["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "found the needle at position 5"
 ```
 
