@@ -1,6 +1,6 @@
 ## Fundamentals
 <details>
-<summary><h3>Clock.c [8 kyu]: <a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a">Beginner Series #2 Clock</a></h3></summary>
+<summary>[8 kyu] Clock.c: <a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a">Beginner Series #2 Clock</a></summary>
 <br>
 <p style="margin-left: 20px;"> Clock shows <b>h</b> hours, <b>m</b> minutes and <b>s</b> seconds after midnight.<br>
     Your task is to write a function which returns the time since midnight in milliseconds.</p>
@@ -11,9 +11,8 @@ s = 1<br>
 <br>
 result = 61000</p>
 </details>
-
 <details>
-<summary><h3>Needle.c [8 kyu]: <a href="https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/c">A Needle in the Haystack</a></h3></summary>
+<summary>[8 kyu] Needle.c: <a href="https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/c">A Needle in the Haystack</a></summary>
 <br>
 <p style="margin-left: 20px;"> Can you find the needle in the haystack<br>
 
